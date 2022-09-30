@@ -1,4 +1,9 @@
 {
+  "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start"
+  },
   "dependencies": {
     "@nextui-org/react": "^1.0.0-beta.10",
     "axios": "^0.27.2",
